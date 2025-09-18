@@ -34,8 +34,8 @@ BASE_URL = "https://timrouter.dns.army/blog/posts"
 # ---------------------------
 # Config Telegram (fallback se non in env)
 # ---------------------------
-TELEGRAM_BOT_TOKEN = "7572618623:AAHsb5JT_IBQ6lpHxdAGjuax76xGyM6EpC4"
-TELEGRAM_CHAT_ID = "-1002363443306"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # ---------------------------
 # DB helpers
